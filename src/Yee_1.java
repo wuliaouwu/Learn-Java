@@ -1,3 +1,6 @@
+/**
+ * 一个数学小文件罢了*/
+
 public class Yee_1 {
 
     public static void main(String[] args) {
